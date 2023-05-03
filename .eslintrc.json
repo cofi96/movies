@@ -1,0 +1,16 @@
+{
+  "extends": ["airbnb", "airbnb-typescript", "prettier"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "plugins": ["prettier"],
+
+  "rules": {
+    "linebreak-style": 0,
+    "react/react-in-jsx-scope": "off",
+    "max-len": ["error", { "code": 150, "ignoreUrls": true }],
+    "import/prefer-default-export": "off",
+    "@typescript-eslint/no-unused-vars": "warn",
+    "prettier/prettier": "error"
+  }
+}

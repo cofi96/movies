@@ -1,0 +1,607 @@
+{
+  "movies": [
+    {
+      "name": "The Adam Project",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSBCiLvzRV3RVrbxn6cVW_sTrK0dzV0gfsre-UYkyU-vJwDfnW1kAZHvTa7i9vXXJyet51yzybstodYNGsBCS4k1vi7v.jpg?r=1c4",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcF2rro7-J-tZgzVW-83AOBd-cZRrttaLOCmIIGAGu5PbLJhi_rysqNNzJUOU1O1ibkBWRS8oe_MVspiiqP7gDByUQOz3ZkEl3ch2vCGLqalpS8XSkGwrQvjBGUv.jpg?r=dfc",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXEtALLeb71E3Aw-sN-yQ1QjfIQ5cCGrdIXMKm8oQhUMePQOMjWR3wV6Uy-vWo_00xe_kOchMchytIfaFTJcl1uTJFPGx6iA-XoGm-mhvucDQASRCOnjvCsi9j8vAEj1etsdgeAIk0hsy1LCN2IisQTrxah6Pcv8HE-c6DRWHg6LKg.png?r=fb2",
+      "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+      "featured": true,
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Mark ",
+          "lastName": "Mark ",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 2,
+          "firstName": "Ryan",
+          "lastName": "Reynolds",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 3,
+          "firstName": "Jennifer ",
+          "lastName": "Garner",
+          "age": "23",
+          "intro": ""
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "name": "Trust No One: asdasddsad",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUvy2x7aZRtNRR7SyqP8HVSCHpmaqwX9-xkoLjAOCa_9FIzpDEOWlTbobc8FL0bXlrclaLxxluUwf_ewcN_NBDzDoSA3.jpg?r=ec2",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVSVURmLHqCuhl89Lorf0-kCITfDe8nFC7hqI9atPkin2ydaxuN1pGnEMoeGu0VVugPCI_2N8rF9ZblIQayAyeJY4HJZODFg_wwA2dAx0Gtfrv9wxlHhrOOAwBe1.jpg?r=f5a",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWH2pjvxQhdw27E-ImqsdJYJQfOPqMCzqrSMLdr6HZCTyTgg7FIhiIGxux1GjbAc3mHVA93IzFgQRdtfJUl6dmJ3EKQT0FIB3Ue27QhZzCiE58zYjHLH1pUey8O2i1Z1ih6Nk5jSle3HlfmlUrdmwz7QmE3MamxYyGGdtd9QZ471Og.png?r=d3b",
+      "description": "When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there's more to his death than meets the eye.",
+      "genre": "Biography",
+      "featured": true,
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "none",
+          "lastName": "",
+          "age": ""
+        }
+      ],
+      "id": "33"
+    },
+    {
+      "id": "4",
+      "name": "6 underground",
+      "author": "asdasd",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABf89pXmEnUd0Aosvq1bAa6zHxA9G_RaA8KOIdXLZgY2dZXAUOTFKovNZ4RNYpCISJHgqkdcYmzW_jCm4v6xtgKQ0jZik-yvy4yOPfjJLrZoYsJmvCT_GdE60-n_yh-W21LnHhKMW6Ylt9sxXDSgJNG8rI0kAM0wkkgil8GaRmb9s4A.png?r=00d",
+      "description": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYFy-oHFblLINbst6l5-GzJGyxfJPzOjGwWTvhkdyzQ-TM7ngByRZHeWq8JnjJaUQbpnS2weh2b0U48CfpnWy2Rti7a8OEVcYsPxP74AQdjd-uh1-ke_FEtdYX9r.jpg?r=75b",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZaElUDutzDs0w-_w-uZXIy424gEVuf27uVAj2--dPpkpX0ZzDxl8BT2E6wQ5SKIL_dan3PoqfNHcvYS7sSwLHz6GSmR.jpg?r=6fd",
+      "genre": "Action",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Mélanie ",
+          "lastName": "Laurent",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 2,
+          "firstName": "Ryan",
+          "lastName": "Reynolds",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 3,
+          "firstName": "Corey ",
+          "lastName": "Hawkins",
+          "age": "23",
+          "intro": ""
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Venom",
+      "author": "asdasd",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeLPU2hSXDZqDMgHoe6WmxL7hFIv9g6hxVtO6uPuvdKoI-pLhZdXyNOAknoIWyUoWdSpGZhLCHJAg8A39C0cPnxtuzXd8nCryxbS.png?r=0d5",
+      "description": "A reporter battles a mad scientist in a fight for his life after merging with a snarky alien symbiote that gives him remarkable superpowers.",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeDyYguyRPqiONrCAsZRrrEK52jApnv5eXKes28q7dGwc3RiQJ_T_OBHnu9dh3JqFT8V1qbwUUROnTTsUmLp9lW_40A.jpg?r=93b",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVqmngrIkaEWs0JHxcYQ3kWKvn2XTFSQ7huGWqKSY5RIVrNRTiqJkMvZLxuTF2xTK6w6fj8aPsX1N3XxJ1nzuOscdayj.jpg?r=0df",
+      "genre": "Action",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Tom",
+          "lastName": "Hardy",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 2,
+          "firstName": "Michelle ",
+          "lastName": "Williams",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 3,
+          "firstName": "Riz",
+          "lastName": "Ahmed",
+          "age": "23",
+          "intro": ""
+        }
+      ]
+    },
+    {
+      "name": "In Good Hands",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABauWOuEmSpwVahpG_6H_hlN_s2mUUzdi8NziV542fxdisf52W9lNPuT-dXGVPayS4lunMCz_CrCLcibxrSAJz4oF2S4O.jpg?r=86c",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABalFsEZAMdbId-AvEk0lGMb0d_DQ2McRKm_j6fy2JNpL1DtzhdJG3AUNLIcUIOf62oVAHISlz_ML_-2WuoFA2tM25-x378LE0tF5iGwLvGMeQ3nGuiokbtt8s4Fs.jpg?r=1ea",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWsQfiUuaSeiwjyOH-yvS9yBHECwBCIquV4Nj8FaVL43TAu35NQE_no7-41-5V0t4N-OtjrEbF36cCZ73sQRx8bb8OzjCJzO-NcyYAQHThTqlsbPDHXH7colF2BxCVVdNTXUEmd-k8dVolsQdKhEq2-VGqxW-EnshsPLFw9x0zgFSg.png?r=2ca",
+      "description": "Diagnosed with a terminal illness, a single mother encounters a suave bachelor as she grapples with the future of her headstrong six-year-old.",
+      "genre": "Romance",
+      "featured": true,
+      "id": "36"
+    },
+    {
+      "name": "Extraction",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd4eoielzKfx0Vrxi0Y9bCiW5dYIbZBF3Y-Txt1NrdjGZ3L_sva5z-FyZxFvUx4mncUHx4L7n2oxg3qNnD91NhdoK6QQ.jpg?r=775",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaUD92whdwqVnEPh5fMHOBL5vext3SdEnKXR03ZDZ7on7yhm0es-61Q_70kKhas_PtfHMDD49bJJ4F3w015XiAFW7H9cDUzEDl8TFSKPAHWhImqoatBUPOMxuj2N.jpg?r=1f7",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYU8-zdFN3IFeLKeO7_q0dIsDD_KlWExxpKi-sVTbwj75KYPPWj7MU-gdP8oiEV_i0w7RRSu5nKpY5-lf7BEfZDuqK0hgv0fjGHXUPnCantrxE07GbripYBZQLEW1t4osyRUEqiODu3km3wySnllK9GIrRNH0bFnvBwatmXRN8Lk2A.png?r=a59",
+      "description": "A hardened mercenary's mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+      "id": "22GY--P"
+    },
+    {
+      "name": "The Equalizer 2",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcE7U5zBLH9tNHgyvzSi6xaJqXJnIHRYuLk5ZSL-1VvFrQAsdhs5bcE0-msW4KT_IW-u_mN5x3eNUWathun5laOC8BXH-MQdQUzT.jpg?r=308",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXLhAmtQAIG0sUz6zbnOSm3DCdmyWjqw1U7eDkD3DZPPfBjfw_0O9jOM5qjjbDGyNDS2FcCuuljKdHEPVRt1ngdtqH4gCnE9IME.jpg?r=fe2",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbgHTBCVHIo27fVIan8-MLaqNwlYzTStOTnhyZtUPyF2fSPXePKurfC3BQlA8R9YBvnE0xBogFeQ8pU5fJozn-Gg91s1t-Csku9LoFWDj1dq.png?r=19d",
+      "description": "Ex-CIA agent-turned-vigilante Robert McCall uses his deadly skills once again to avenge the death of a close friend and former colleague.",
+      "genre": "action",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Denzel ",
+          "lastName": "Washington",
+          "age": "34"
+        },
+        {
+          "id": 2,
+          "firstName": "Pedro",
+          "lastName": "Pascal",
+          "age": "37"
+        },
+        {
+          "id": 3,
+          "firstName": "Ashton",
+          "lastName": "Sanders",
+          "age": "26"
+        }
+      ],
+      "id": "dbk7KVG"
+    },
+    {
+      "name": "  Bird Box",
+      "id": "321",
+      "featured": true,
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc9FdtgsbTCzOvN0VnL_awQzhT-N90JVAcib8zQje2UksBYLRULjiYmF5K4XfRRJ2mrhP002EL1RKYZCmXxDd5JBdZDgqipqhODy.jpg?r=715",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRn1mRHiWKLjGyNKik0uxVFmaF8bq9YHGjSHUzgGxd5WTdjwYsBSfR3N9amM3E7VfHAxDE7mPS78DY5Ffv7tseS80gXYDOi4w4VnsUsiLMwyfdw5glfQj4rrwA0gCRGIFk-b.jpg?r=1a4",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQWvBP7Nas7AAF_5dbX2EpgngEdpm1Wgal3Z2AzKk-PHWn6yARyUq-8nbDWwrmNXXDcA8WMUe5XFopJvCyrqlOljRJicJC_Dj7YhAJmB74yMlkyKa9rBDyKDdT6VFWg_dnqIHPF3apr-U8uvEk0ScILgtKQU3swVKA57ZUAfMM62rpnxCCM4wQ.png?r=600",
+      "description": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+      "genre": "horror",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Sandra",
+          "lastName": "Bullock",
+          "age": "31"
+        },
+        {
+          "id": 2,
+          "firstName": "Trevante",
+          "lastName": "Rhodes",
+          "age": "26"
+        }
+      ]
+    },
+    {
+      "name": "Lucy",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfZRn19HBt7NTuSrxBvlnikg-3-xPeNEMALzVQe_Wm8LlSay1HOyewohNqSPEKgpgSh9GI5EqUPH6PnYY2dcpGC1kUmmNFKOLxAd.jpg?r=3e2",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQawcQpFFlbIoY54j276NqMMoiFdBhFDyMpiICrgh4i5XpreRc_a0Mxx44lsPnf6Za4jntl1Tor5QtLG1pc4kj98XOfkOIQaQSc.jpg?r=44f",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ9OPtad-GSX1fsutWYTLWlsu3qeX_14uScvw5mrZxHzfPyUbQT5Yaxza7daVtNoW4gyYBO5XGgN_HUYq7_Y_kJQhksYv1ZyS8N3OhNnEmCG.png?r=a7a",
+      "description": "When a young American in Taiwan becomes an unwilling drug mule, the high-tech narcotics get released into her system and activate superhuman powers.",
+      "genre": "Sci-fi",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Scarlett",
+          "lastName": "Johansson",
+          "age": "31"
+        },
+        {
+          "id": 2,
+          "firstName": "Morgan",
+          "lastName": "Freeman",
+          "age": "45"
+        },
+        {
+          "id": 3,
+          "firstName": "Choi",
+          "lastName": "Min-sik",
+          "age": "26"
+        }
+      ],
+      "id": "a9LlFHs"
+    },
+    {
+      "name": "Fatherhood",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWwPtO5Bf2FQ1v0vLQQ_TlQ7uVG-8aHK13y2jJeez0M5p2K1_YATQoyATPSIyjxiu7p1zpV0tlX2z2eqysi2HkNm7yB8kopvv_lY.jpg?r=686",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABazeyh58b0XCwL5pSH-wVEr8UuoxJ0ruvGRy3HXq0r9LRySj3lKPHIDIZi5mL6HqKicHnF375oNCfmOyahoNR-xUUNv0W_NrzLmdSO78MjrW7qHpbsQNpxJUFQVBobCh3cY0.jpg?r=182",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWMASkkD06KmHVbLWkuLgn-UOXaSEJpmnvnln4ITuxEW_yXBQcBZrJG1GfREhn46x7X8Of_F-Gf46aYf2QT_sAqF9EDL8nhRA8zBFXsoxjp97hjs0OacV0rr94qDIBMcXucTjdO4Cfh6V41-SBxFUFNztGNcwNWyBlH6HAvEH9f1EIEMvkwQvg.png?r=3c4",
+      "description": "A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.",
+      "genre": "Comedy",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Kevin",
+          "lastName": "Hart",
+          "age": "28"
+        },
+        {
+          "id": 2,
+          "firstName": " Alfre ",
+          "lastName": "Woodard",
+          "age": "34"
+        },
+        {
+          "id": 3,
+          "firstName": "Lil Rel ",
+          "lastName": "Howery",
+          "age": "45"
+        }
+      ],
+      "id": "gln6g56en"
+    },
+    {
+      "name": "",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSBCiLvzRV3RVrbxn6cVW_sTrK0dzV0gfsre-UYkyU-vJwDfnW1kAZHvTa7i9vXXJyet51yzybstodYNGsBCS4k1vi7v.jpg?r=1c4",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcF2rro7-J-tZgzVW-83AOBd-cZRrttaLOCmIIGAGu5PbLJhi_rysqNNzJUOU1O1ibkBWRS8oe_MVspiiqP7gDByUQOz3ZkEl3ch2vCGLqalpS8XSkGwrQvjBGUv.jpg?r=dfc",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXEtALLeb71E3Aw-sN-yQ1QjfIQ5cCGrdIXMKm8oQhUMePQOMjWR3wV6Uy-vWo_00xe_kOchMchytIfaFTJcl1uTJFPGx6iA-XoGm-mhvucDQASRCOnjvCsi9j8vAEj1etsdgeAIk0hsy1LCN2IisQTrxah6Pcv8HE-c6DRWHg6LKg.png?r=fb2",
+      "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+      "featured": true,
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Mark ",
+          "lastName": "Mark ",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 2,
+          "firstName": "Ryan",
+          "lastName": "Reynolds",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 3,
+          "firstName": "Jennifer ",
+          "lastName": "Garner",
+          "age": "23",
+          "intro": ""
+        }
+      ],
+      "id": "22"
+    },
+    {
+      "name": "Trust No One: asdasddsad",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUvy2x7aZRtNRR7SyqP8HVSCHpmaqwX9-xkoLjAOCa_9FIzpDEOWlTbobc8FL0bXlrclaLxxluUwf_ewcN_NBDzDoSA3.jpg?r=ec2",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVSVURmLHqCuhl89Lorf0-kCITfDe8nFC7hqI9atPkin2ydaxuN1pGnEMoeGu0VVugPCI_2N8rF9ZblIQayAyeJY4HJZODFg_wwA2dAx0Gtfrv9wxlHhrOOAwBe1.jpg?r=f5a",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWH2pjvxQhdw27E-ImqsdJYJQfOPqMCzqrSMLdr6HZCTyTgg7FIhiIGxux1GjbAc3mHVA93IzFgQRdtfJUl6dmJ3EKQT0FIB3Ue27QhZzCiE58zYjHLH1pUey8O2i1Z1ih6Nk5jSle3HlfmlUrdmwz7QmE3MamxYyGGdtd9QZ471Og.png?r=d3b",
+      "description": "When the young founder of a collapsing cryptocurrency exchange dies unexpectedly, irate investors suspect there's more to his death than meets the eye.",
+      "genre": "Biography",
+      "featured": true,
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "none",
+          "lastName": "",
+          "age": ""
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "id": "43",
+      "name": "6 underground",
+      "author": "asdasd",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABf89pXmEnUd0Aosvq1bAa6zHxA9G_RaA8KOIdXLZgY2dZXAUOTFKovNZ4RNYpCISJHgqkdcYmzW_jCm4v6xtgKQ0jZik-yvy4yOPfjJLrZoYsJmvCT_GdE60-n_yh-W21LnHhKMW6Ylt9sxXDSgJNG8rI0kAM0wkkgil8GaRmb9s4A.png?r=00d",
+      "description": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYFy-oHFblLINbst6l5-GzJGyxfJPzOjGwWTvhkdyzQ-TM7ngByRZHeWq8JnjJaUQbpnS2weh2b0U48CfpnWy2Rti7a8OEVcYsPxP74AQdjd-uh1-ke_FEtdYX9r.jpg?r=75b",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZaElUDutzDs0w-_w-uZXIy424gEVuf27uVAj2--dPpkpX0ZzDxl8BT2E6wQ5SKIL_dan3PoqfNHcvYS7sSwLHz6GSmR.jpg?r=6fd",
+      "genre": "Action",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Mélanie ",
+          "lastName": "Laurent",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 2,
+          "firstName": "Ryan",
+          "lastName": "Reynolds",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 3,
+          "firstName": "Corey ",
+          "lastName": "Hawkins",
+          "age": "23",
+          "intro": ""
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Venom",
+      "author": "asdasd",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeLPU2hSXDZqDMgHoe6WmxL7hFIv9g6hxVtO6uPuvdKoI-pLhZdXyNOAknoIWyUoWdSpGZhLCHJAg8A39C0cPnxtuzXd8nCryxbS.png?r=0d5",
+      "description": "A reporter battles a mad scientist in a fight for his life after merging with a snarky alien symbiote that gives him remarkable superpowers.",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeDyYguyRPqiONrCAsZRrrEK52jApnv5eXKes28q7dGwc3RiQJ_T_OBHnu9dh3JqFT8V1qbwUUROnTTsUmLp9lW_40A.jpg?r=93b",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVqmngrIkaEWs0JHxcYQ3kWKvn2XTFSQ7huGWqKSY5RIVrNRTiqJkMvZLxuTF2xTK6w6fj8aPsX1N3XxJ1nzuOscdayj.jpg?r=0df",
+      "genre": "Action",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Tom",
+          "lastName": "Hardy",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 2,
+          "firstName": "Michelle ",
+          "lastName": "Williams",
+          "age": "23",
+          "intro": ""
+        },
+        {
+          "id": 3,
+          "firstName": "Riz",
+          "lastName": "Ahmed",
+          "age": "23",
+          "intro": ""
+        }
+      ]
+    },
+    {
+      "name": "In Good Hands",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABauWOuEmSpwVahpG_6H_hlN_s2mUUzdi8NziV542fxdisf52W9lNPuT-dXGVPayS4lunMCz_CrCLcibxrSAJz4oF2S4O.jpg?r=86c",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABalFsEZAMdbId-AvEk0lGMb0d_DQ2McRKm_j6fy2JNpL1DtzhdJG3AUNLIcUIOf62oVAHISlz_ML_-2WuoFA2tM25-x378LE0tF5iGwLvGMeQ3nGuiokbtt8s4Fs.jpg?r=1ea",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWsQfiUuaSeiwjyOH-yvS9yBHECwBCIquV4Nj8FaVL43TAu35NQE_no7-41-5V0t4N-OtjrEbF36cCZ73sQRx8bb8OzjCJzO-NcyYAQHThTqlsbPDHXH7colF2BxCVVdNTXUEmd-k8dVolsQdKhEq2-VGqxW-EnshsPLFw9x0zgFSg.png?r=2ca",
+      "description": "Diagnosed with a terminal illness, a single mother encounters a suave bachelor as she grapples with the future of her headstrong six-year-old.",
+      "genre": "Romance",
+      "featured": true,
+      "id": "TKRfSCc"
+    },
+    {
+      "name": "Extraction",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd4eoielzKfx0Vrxi0Y9bCiW5dYIbZBF3Y-Txt1NrdjGZ3L_sva5z-FyZxFvUx4mncUHx4L7n2oxg3qNnD91NhdoK6QQ.jpg?r=775",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaUD92whdwqVnEPh5fMHOBL5vext3SdEnKXR03ZDZ7on7yhm0es-61Q_70kKhas_PtfHMDD49bJJ4F3w015XiAFW7H9cDUzEDl8TFSKPAHWhImqoatBUPOMxuj2N.jpg?r=1f7",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYU8-zdFN3IFeLKeO7_q0dIsDD_KlWExxpKi-sVTbwj75KYPPWj7MU-gdP8oiEV_i0w7RRSu5nKpY5-lf7BEfZDuqK0hgv0fjGHXUPnCantrxE07GbripYBZQLEW1t4osyRUEqiODu3km3wySnllK9GIrRNH0bFnvBwatmXRN8Lk2A.png?r=a59",
+      "description": "A hardened mercenary's mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+      "id": "22GY-78-P"
+    },
+    {
+      "name": "The Equalizer 2",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcE7U5zBLH9tNHgyvzSi6xaJqXJnIHRYuLk5ZSL-1VvFrQAsdhs5bcE0-msW4KT_IW-u_mN5x3eNUWathun5laOC8BXH-MQdQUzT.jpg?r=308",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXLhAmtQAIG0sUz6zbnOSm3DCdmyWjqw1U7eDkD3DZPPfBjfw_0O9jOM5qjjbDGyNDS2FcCuuljKdHEPVRt1ngdtqH4gCnE9IME.jpg?r=fe2",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbgHTBCVHIo27fVIan8-MLaqNwlYzTStOTnhyZtUPyF2fSPXePKurfC3BQlA8R9YBvnE0xBogFeQ8pU5fJozn-Gg91s1t-Csku9LoFWDj1dq.png?r=19d",
+      "description": "Ex-CIA agent-turned-vigilante Robert McCall uses his deadly skills once again to avenge the death of a close friend and former colleague.",
+      "genre": "action",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Denzel ",
+          "lastName": "Washington",
+          "age": "34"
+        },
+        {
+          "id": 2,
+          "firstName": "Pedro",
+          "lastName": "Pascal",
+          "age": "37"
+        },
+        {
+          "id": 3,
+          "firstName": "Ashton",
+          "lastName": "Sanders",
+          "age": "26"
+        }
+      ],
+      "id": "12356"
+    },
+    {
+      "name": "  Bird Box",
+      "featured": true,
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABc9FdtgsbTCzOvN0VnL_awQzhT-N90JVAcib8zQje2UksBYLRULjiYmF5K4XfRRJ2mrhP002EL1RKYZCmXxDd5JBdZDgqipqhODy.jpg?r=715",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRn1mRHiWKLjGyNKik0uxVFmaF8bq9YHGjSHUzgGxd5WTdjwYsBSfR3N9amM3E7VfHAxDE7mPS78DY5Ffv7tseS80gXYDOi4w4VnsUsiLMwyfdw5glfQj4rrwA0gCRGIFk-b.jpg?r=1a4",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQWvBP7Nas7AAF_5dbX2EpgngEdpm1Wgal3Z2AzKk-PHWn6yARyUq-8nbDWwrmNXXDcA8WMUe5XFopJvCyrqlOljRJicJC_Dj7YhAJmB74yMlkyKa9rBDyKDdT6VFWg_dnqIHPF3apr-U8uvEk0ScILgtKQU3swVKA57ZUAfMM62rpnxCCM4wQ.png?r=600",
+      "description": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+      "genre": "horor",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Sandra",
+          "lastName": "Bullock",
+          "age": "31"
+        },
+        {
+          "id": 2,
+          "firstName": "Trevante",
+          "lastName": "Rhodes",
+          "age": "26"
+        }
+      ],
+      "id": "dWmz_Z-"
+    },
+    {
+      "name": "Lucy",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfZRn19HBt7NTuSrxBvlnikg-3-xPeNEMALzVQe_Wm8LlSay1HOyewohNqSPEKgpgSh9GI5EqUPH6PnYY2dcpGC1kUmmNFKOLxAd.jpg?r=3e2",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQawcQpFFlbIoY54j276NqMMoiFdBhFDyMpiICrgh4i5XpreRc_a0Mxx44lsPnf6Za4jntl1Tor5QtLG1pc4kj98XOfkOIQaQSc.jpg?r=44f",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ9OPtad-GSX1fsutWYTLWlsu3qeX_14uScvw5mrZxHzfPyUbQT5Yaxza7daVtNoW4gyYBO5XGgN_HUYq7_Y_kJQhksYv1ZyS8N3OhNnEmCG.png?r=a7a",
+      "description": "When a young American in Taiwan becomes an unwilling drug mule, the high-tech narcotics get released into her system and activate superhuman powers.",
+      "genre": "Sci-fi",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Scarlett",
+          "lastName": "Johansson",
+          "age": "31"
+        },
+        {
+          "id": 2,
+          "firstName": "Morgan",
+          "lastName": "Freeman",
+          "age": "45"
+        },
+        {
+          "id": 3,
+          "firstName": "Choi",
+          "lastName": "Min-sik",
+          "age": "26"
+        }
+      ],
+      "id": "a9L56lFHs"
+    },
+    {
+      "name": "Fatherhood",
+      "image": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWwPtO5Bf2FQ1v0vLQQ_TlQ7uVG-8aHK13y2jJeez0M5p2K1_YATQoyATPSIyjxiu7p1zpV0tlX2z2eqysi2HkNm7yB8kopvv_lY.jpg?r=686",
+      "thumbnail": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABazeyh58b0XCwL5pSH-wVEr8UuoxJ0ruvGRy3HXq0r9LRySj3lKPHIDIZi5mL6HqKicHnF375oNCfmOyahoNR-xUUNv0W_NrzLmdSO78MjrW7qHpbsQNpxJUFQVBobCh3cY0.jpg?r=182",
+      "movieLogo": "https://occ-0-4093-769.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABWMASkkD06KmHVbLWkuLgn-UOXaSEJpmnvnln4ITuxEW_yXBQcBZrJG1GfREhn46x7X8Of_F-Gf46aYf2QT_sAqF9EDL8nhRA8zBFXsoxjp97hjs0OacV0rr94qDIBMcXucTjdO4Cfh6V41-SBxFUFNztGNcwNWyBlH6HAvEH9f1EIEMvkwQvg.png?r=3c4",
+      "description": "A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.",
+      "genre": "comedy",
+      "actors": [
+        {
+          "id": 1,
+          "firstName": "Kevin",
+          "lastName": "Hart",
+          "age": "28"
+        },
+        {
+          "id": 2,
+          "firstName": " Alfre ",
+          "lastName": "Woodard",
+          "age": "34"
+        },
+        {
+          "id": 3,
+          "firstName": "Lil Rel ",
+          "lastName": "Howery",
+          "age": "45"
+        }
+      ],
+      "id": "gln6gen"
+    }
+  ],
+  "users": [
+    {
+      "email": "john@adasd.com",
+      "firstName": "John",
+      "lastName": "Dhoe",
+      "role": "user",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "email": "asdasas@Dasdasd",
+      "firstName": "Jovan",
+      "lastName": "peric",
+      "role": "user",
+      "password": "$2a$10$kysD3zWLPCnCILmmC4PHDu2zcZ1EYuS1QeoH0rH2ATnmA6TJC8RGC",
+      "id": 2
+    },
+    {
+      "email": "asdasd@dasdasd",
+      "firstName": "Bogdan",
+      "lastName": "Jovic",
+      "role": "user",
+      "password": "$2a$10$2w/OZaZeHew0tzDXtsN7cerpnSQT/XDU8kwmm1loDAjmfcx24BRWu",
+      "id": 3
+    },
+    {
+      "email": "dsdfs@dasdas",
+      "firstName": "Nikola",
+      "lastName": "jovic",
+      "role": "user",
+      "password": "$2a$10$d9axOV6dRhVfytEoT7Kf8ebp7r3ULyIOwO27WN69HKHDdd0p51B6u",
+      "id": 4
+    },
+    {
+      "email": "fpejovic@asdasd.com",
+      "firstName": "Filip",
+      "lastName": "Pejovic",
+      "role": "admin",
+      "password": "$2a$10$1bRpCN.d78CvtExVK7KOzuslR7lmnmqu2hctcDQ1LMCtBMZEwP4Y.",
+      "id": 5
+    },
+    {
+      "email": "bojan@dasdas.com",
+      "firstName": "Sasa",
+      "lastName": "kovacevic",
+      "role": "user",
+      "password": "$2a$10$FZ.HGlPkUHb8soxf3n5E8eAp6lyU11jOr/03FnkBhJrluClRhsFey",
+      "id": 6
+    },
+    {
+      "email": "bpajic@sdasdas",
+      "firstName": "Bogdan",
+      "lastName": "Pajic",
+      "role": "user",
+      "password": "$2a$10$c8FTubBJjtZNFr2tLXkIuOxwl9YVKKW1iqB83b8kxJ3IXSGnCSQKO",
+      "id": 8
+    },
+    {
+      "email": "test@dasdas.com",
+      "password": "$2a$10$.wa/Mbmu1Vnxr.DdsqWUMO7i1Xy8ARe3NUFd22TNSHgEPaCYrulH6",
+      "id": 9
+    },
+    {
+      "email": "test1@asd.com",
+      "password": "$2a$10$1WrCnQD/hkCCxxtWpSiqOeUOBq4TFYRcNXQgqgRU.L9CO32mPIW/q",
+      "id": 10
+    },
+    {
+      "email": "test2@asd.com",
+      "password": "$2a$10$KWbPQsZZcRmPpEHw4q8kWOkfB8cWqq2Bgrn59rhj9aqrRNbmEOOpi",
+      "firstName": "Jovan",
+      "lastName": "Peric",
+      "id": 11
+    },
+    {
+      "email": "test3@test.com",
+      "password": "$2a$10$4cfKdN3sslJqYEzZQCBuledjYz8J9jnx7d0aBtYPWmfK8CbgUxN9y",
+      "firstName": "Jovan",
+      "lastName": "Jovic",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "email": "test4@sdasd.com",
+      "password": "$2a$10$MIl01yHwN43/dwleslHbNOYCbjBzdvgigTJ4MMFBeqe/5/gL7RMIK",
+      "firstName": "Jovan",
+      "lastName": "Peric",
+      "role": "user",
+      "id": 13
+    },
+    {
+      "email": "test6@dsada.com",
+      "password": "$2a$10$qfu7UJ148gqr5wFirXaR..cFCde/eHCjknXUwedLpqYAcHUdua632",
+      "firstName": "Jovan",
+      "lastName": "Dabovic",
+      "role": "user",
+      "id": 14
+    },
+    {
+      "email": "test1@test.com",
+      "password": "$2a$10$6PgSQunCO8CjW8uyTgc0OOkgdZLu7SQIVQLoLUM0AQEgOcCMf6ot.",
+      "firstName": "testtt",
+      "lastName": "testtt",
+      "id": 15
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$bsjJw6Q4Nv9qmJE8OZgJU.Wc79a66H4q2pk01aIGfPtAhnmYYs5MO",
+      "firstName": "Testtt",
+      "lastName": "testtt",
+      "id": 16
+    }
+  ]
+}
