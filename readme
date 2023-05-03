@@ -1,0 +1,5 @@
+1. Install node v16.13.0
+2.set .env variable with .env.example
+3.npm install
+4.npm run server
+5.npm start
